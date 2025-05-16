@@ -1,3 +1,3 @@
 # Unity_Data-persistence
-Unity中用于序列化和反序列化数据的框架
+Unity中用于序列化和反序列化数据的框架  
 PlayerPrefs和Json是Unity常用的两种存储读取数据的两种方式，框架提供了两个管理类，分别用于该两种方法的使用
